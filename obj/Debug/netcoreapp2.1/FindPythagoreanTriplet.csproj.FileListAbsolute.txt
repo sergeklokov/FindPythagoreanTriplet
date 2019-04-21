@@ -1,0 +1,11 @@
+C:\Users\aa\source\repos\FindPythagoreanTriplet\FindPythagoreanTriplet\obj\Debug\netcoreapp2.1\FindPythagoreanTriplet.csprojAssemblyReference.cache
+C:\Users\aa\source\repos\FindPythagoreanTriplet\FindPythagoreanTriplet\obj\Debug\netcoreapp2.1\FindPythagoreanTriplet.csproj.CoreCompileInputs.cache
+C:\Users\aa\source\repos\FindPythagoreanTriplet\FindPythagoreanTriplet\obj\Debug\netcoreapp2.1\FindPythagoreanTriplet.AssemblyInfoInputs.cache
+C:\Users\aa\source\repos\FindPythagoreanTriplet\FindPythagoreanTriplet\obj\Debug\netcoreapp2.1\FindPythagoreanTriplet.AssemblyInfo.cs
+C:\Users\aa\source\repos\FindPythagoreanTriplet\FindPythagoreanTriplet\bin\Debug\netcoreapp2.1\FindPythagoreanTriplet.deps.json
+C:\Users\aa\source\repos\FindPythagoreanTriplet\FindPythagoreanTriplet\bin\Debug\netcoreapp2.1\FindPythagoreanTriplet.runtimeconfig.json
+C:\Users\aa\source\repos\FindPythagoreanTriplet\FindPythagoreanTriplet\bin\Debug\netcoreapp2.1\FindPythagoreanTriplet.runtimeconfig.dev.json
+C:\Users\aa\source\repos\FindPythagoreanTriplet\FindPythagoreanTriplet\bin\Debug\netcoreapp2.1\FindPythagoreanTriplet.dll
+C:\Users\aa\source\repos\FindPythagoreanTriplet\FindPythagoreanTriplet\bin\Debug\netcoreapp2.1\FindPythagoreanTriplet.pdb
+C:\Users\aa\source\repos\FindPythagoreanTriplet\FindPythagoreanTriplet\obj\Debug\netcoreapp2.1\FindPythagoreanTriplet.dll
+C:\Users\aa\source\repos\FindPythagoreanTriplet\FindPythagoreanTriplet\obj\Debug\netcoreapp2.1\FindPythagoreanTriplet.pdb
